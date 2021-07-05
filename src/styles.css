@@ -1,0 +1,17 @@
+.title_red {
+  font-size: 60px;
+  color: rgb(119, 209, 212);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  text-align: center;
+}
+.App {
+  text-align: center;
+}
+img {
+  width: 300px;
+  height: 400px;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
